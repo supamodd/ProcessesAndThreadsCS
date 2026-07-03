@@ -38,7 +38,7 @@ internal static class Program
 
         Console.WriteLine("\nПотоки завершены.");
     }
-
+     
     private static void Plus()
     {
         while (!finish)
